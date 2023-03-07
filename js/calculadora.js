@@ -3,7 +3,7 @@ function somar() {
   const numero2 = parseFloat(document.getElementById("numero2Soma").value);
   // evite mexer no código acima!
 
-
+const resultado = numero1 + numero2
 
 
 
