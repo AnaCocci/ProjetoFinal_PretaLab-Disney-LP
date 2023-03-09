@@ -35,7 +35,7 @@ function calcularMedia() {
 } else if(media ===0 ) {
     mensagem = 'Infelizmente você zerou a prova :(';
 } else{
-    mensagem ='É necessário que você insira as quatro notas ( De zero a 10 ) para prosseguir';
+    mensagem ='É necessário que você insira as quatro notas ( De 0 a 10 ) para prosseguir';
 }
 
 
